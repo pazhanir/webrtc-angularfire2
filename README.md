@@ -24,8 +24,3 @@ If you need to host the sample on your own server, you can use the NodeJS server
 - I have generated the certificate (under nodejs-server folder) so it is not a must for you to do so.
 - In case you are running the server locally and is using Chrome, you may want to configure Chrome to allow insecure localhost.
 `chrome://flags/#allow-insecure-localhost`
-
-
-## More
-
-Check out [myMobKit app](https://play.google.com/store/apps/details?id=com.mymobkit&hl=en) to see it in action.
